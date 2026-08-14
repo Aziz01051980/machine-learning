@@ -1,3 +1,19 @@
+Historical BTC/USD data
+        ↓
+Feature engineering
+        ↓
+V11.1 Fast Parameter Screening
+        ↓
+Exact TP/SL Validation
+        ↓
+Out-of-Sample Test (2025+)
+        ↓
+Robustness Filter
+        ↓
+V12 Fixed-Risk Equity Simulation
+
+The repository contains the dataset required to reproduce the main experiment. Generated backtest results are intentionally excluded from version control and can be recreated by running the main script.
+
 # Bitcoin ML Strategy Optimizer
 
 A research project for developing and evaluating a Bitcoin trading strategy using historical BTC/USD data, parameter optimization, walk-forward-style validation, exact TP/SL backtesting, and fixed-risk equity simulation.
